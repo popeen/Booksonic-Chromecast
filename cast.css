@@ -1,0 +1,12 @@
+.progressBar {
+    background-color: rgb(49,132,165);
+}
+.logo {
+    background-image: url(booksonic.png);
+}
+.splash {
+    background-image: url(chromecast1.jpg);
+}
+.background {
+    background: center no-repeat url(chromecast1.jpg);
+}
